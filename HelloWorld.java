@@ -1,0 +1,3 @@
+HelloWorld {
+	int a;
+}
