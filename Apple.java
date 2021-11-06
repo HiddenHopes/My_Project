@@ -1,3 +1,0 @@
-Apple {
-  String name;
-}
